@@ -1,5 +1,5 @@
-# Creation of the BestTour website
-Project developed through the FlexBox course of [Digital Innovation One](https://www.dio.me/). The main objective of creating this site is to train the knowledge of CSS learned during the classes.
+# BestTour website
+Project developed through the FlexBox course of [Digital Innovation One](https://www.dio.me/). The main objective of creating this site is to train the knowledges of CSS learned during the classes.
 
 ![Image of the BestTour website homepage](https://user-images.githubusercontent.com/96635074/191940905-6da7ca58-946b-4f86-90f5-f2314a242941.png)
 
