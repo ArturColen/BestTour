@@ -11,5 +11,4 @@ In the simulation of this travel agency, we can learn about the company's purpos
 * `CSS:` Page styling and responsiveness
 
 # 📁 Project access
-
-You can [download the project](https://github.com/ArturColen/BestTour/archive/refs/heads/main.zip) or [view the hosted page](https://arturcolen.github.io/BestTour/).
+You can view the hosted page by clicking [here](https://arturcolen.github.io/BestTour/).
