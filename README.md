@@ -8,8 +8,8 @@ Project developed through the FlexBox course of [Digital Innovation One](https:/
 In the simulation of this travel agency, we can learn about the company's purposes, in addition to knowing what services and plans are offered by it.
 
 ## 💻 Technologies used 
-* `HTML:` Page structuring, accessibility, semantics and SEO
-* `CSS:` Page styling and responsiveness
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Page structuring, accessibility and semantics
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Page styling and responsiveness
 
 ## 📁 Project access
 You can view the hosted page by clicking [here](https://arturcolen.github.io/BestTour/).
