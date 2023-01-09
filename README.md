@@ -7,7 +7,7 @@ Project developed through the FlexBox course of [Digital Innovation One](https:/
 ## 🔨 Project functionality
 In the simulation of this travel agency, we can learn about the company's purposes, in addition to knowing what services and plans are offered by it.
 
-## 💻 Technologies and techniques used 
+## 💻 Technologies used 
 * `HTML:` Page structuring, accessibility, semantics and SEO
 * `CSS:` Page styling and responsiveness
 
